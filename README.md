@@ -1,1 +1,3 @@
-# Módulo 07 do Bootcamp da Rocketseat
+# RocketShoes
+
+Módulo 07 do Bootcamp da Rocketseat
